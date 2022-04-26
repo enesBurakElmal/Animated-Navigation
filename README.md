@@ -6,4 +6,4 @@ Click " X " button and show this event! :)
 <br>
 ![image](https://user-images.githubusercontent.com/92387865/155812714-ddfad6f5-25d1-45c8-bfe9-d363ea9ea7ce.png)
 
-https://eneselmal.github.io/Animated-Navigation/
+https://enesburakelmal.github.io/Animated-Navigation/
